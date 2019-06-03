@@ -9,6 +9,7 @@ Lecture notes include almost everything in my notebook.
 	- Fix some mistake in SEC/DED code.
 	- Fix mistake in formula of parallel speedsup.
 4. Final review chapter is added.
+5. Fix the formula of pipeline speedup in final review chapter.
 
 #Discrete Mathematics
 1. Lecture notes of first 2 chapters.
