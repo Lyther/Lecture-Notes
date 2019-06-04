@@ -13,5 +13,5 @@ Lecture notes include almost everything in my notebook.
 
 #Discrete Mathematics
 1. Lecture notes of first 2 chapters.
-2. Review notes are in progress.
-3. May be upload some example problems as well.
+2. Review notes from first 19 lectures.
+3. The notes are in a hurry, and if you find any mistake, please contact me.
