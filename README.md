@@ -15,3 +15,7 @@ Lecture notes include almost everything in my notebook.
 1. Lecture notes of first 2 chapters.
 2. Review notes from first 19 lectures.
 3. The notes are in a hurry, and if you find any mistake, please contact me.
+
+#Algorithm Design and Analysis
+1. Lecture notes of chapter 0, 1, 3, and 4.
+2. May not take review notes.
