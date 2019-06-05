@@ -18,4 +18,4 @@ Lecture notes include almost everything in my notebook.
 
 #Algorithm Design and Analysis
 1. Lecture notes of chapter 0, 1, 3, and 4.
-2. May not take review notes.
+2. Only final review chapter is covered.
