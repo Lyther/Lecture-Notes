@@ -19,3 +19,7 @@ Lecture notes include almost everything in my notebook.
 #Algorithm Design and Analysis
 1. Lecture notes of chapter 0, 1, 3, and 4.
 2. Only final review chapter is covered.
+
+#Database principle
+1. Lecture notes won't be covered (because I did not take any of them), so go and view the notes of Jerry Lu.
+2. Review notes are in progress, I'll push them once I finished.
