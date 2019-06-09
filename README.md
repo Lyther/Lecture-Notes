@@ -20,7 +20,12 @@ Lecture notes include almost everything in my notebook.
 1. Lecture notes of chapter 0, 1, 3, and 4.
 2. Only final review chapter is covered.
 
-# Database principle
+# Database Principle
 1. Lecture notes won't be covered (because I did not take any of them), so go and view the notes of Jerry Lu.
 2. Review notes are included.
 3. No final review chapter, as there are so many things.
+
+# Cloud Computing
+1. Lecture notes from chapter 0 to chapter 6.
+2. Review notes are in progress, I think it would be finished before 11th, June.
+3. I may not make a fianl review chapter, as there are also so many things.
