@@ -27,5 +27,5 @@ Lecture notes include almost everything in my notebook.
 
 # Cloud Computing
 1. Lecture notes from chapter 0 to chapter 6.
-2. Review notes are in progress, I think it would be finished before 11th, June.
+2. Review notes are finished and pushed to master.
 3. I may not make a fianl review chapter, as there are also so many things.
