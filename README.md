@@ -8,6 +8,10 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 
 ----
 
+## Embedded System
+1. Lecture notes of Chapter6. Memory.
+2. I may upload lab assignments to the github later.
+
 ## Compilers
 1. Lecture notes of Chapter1. Introduction.
 2. The corresponding compiler in assignment can be found in `SPL-compiler`.
