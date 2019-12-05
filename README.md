@@ -8,6 +8,10 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 
 ----
 
+## OOAD
+1. Updated lecture notes of Chapter1. UML.
+2. More information is still on working.
+
 ## Embedded System
 1. Lecture notes of Chapter6. Memory.
 2. I may upload lab assignments to the github later.
