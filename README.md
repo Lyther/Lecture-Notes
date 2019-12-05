@@ -9,7 +9,7 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 ----
 
 ## OOAD
-1. Updated lecture notes of Chapter1. UML.
+1. Updated lecture notes of Chapter1-2.
 2. More information is still on working.
 
 ## Embedded System
