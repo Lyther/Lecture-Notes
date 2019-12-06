@@ -8,6 +8,10 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 
 ----
 
+## Artificial Intelligence
+1. Lecture notes of Chapter0. Introduction.
+2. Source code of my project 1 is updated as Gomoku.
+
 ## OOAD
 1. Updated lecture notes of Chapter1-2.
 2. More information is still on working.
