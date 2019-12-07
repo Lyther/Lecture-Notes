@@ -1,46 +1,70 @@
 ### Lecture-Notes
+
 Lecture notes of SUSTech Computer and Science Engineering Department.
+
 The main contents are:
-```Lecture notes
-Review notes
-Lab notes and assignment notes```
+
+
+* Lecture notes
+* Review notes
+* Lab notes and assignment notes
+
+
 The lecture notes are continuous updating, and some of them aren't finished yet. If you want to get notes of specific course, please raise an issue.
 
 ----
 
 ## Artificial Intelligence
+
 1. Lecture notes of Chapter0. Introduction.
+
 2. Source code of my project 1 is updated as Gomoku.
 
 ## OOAD
+
 1. Updated lecture notes of Chapter1-2.
+
 2. More information is still on working.
 
 ## Embedded System
+
 1. Lecture notes of Chapter6. Memory.
+
 2. I may upload lab assignments to the github later.
 
 ## Compilers
+
 1. Lecture notes of Chapter1. Introduction.
+
 2. The corresponding compiler in assignment can be found in `SPL-compiler`.
 
 ## Computer Organization
+
 1. The first 10 lecture notes.
+
 2. Review notes start from lecture 8 to lecture 14.
+
 3. Fixed some mistakes in review notes:
 	- Remove non-important notation of first part of CPU.
 	- Fix some mistake in SEC/DED code.
 	- Fix mistake in formula of parallel speedsup.
+
 4. Final review chapter is added.
+
 5. Fix the formula of pipeline speedup in final review chapter.
 
 ## Discrete Mathematics
+
 1. Lecture notes of first 2 chapters.
+
 2. Review notes from first 19 lectures.
+
 3. The notes are in a hurry, and if you find any mistake, please contact me.
 
 ## Algorithm Design and Analysis
+
 1. Lecture notes of chapter 0, 1, 3, and 4.
+
 2. Only final review chapter is covered.
 
 ## Database Principle
