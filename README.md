@@ -1,4 +1,4 @@
-### Lecture-Notes
+# Lecture-Notes
 
 Lecture notes of SUSTech Computer and Science Engineering Department.
 
@@ -8,11 +8,16 @@ The main contents are:
 * Lecture notes
 * Review notes
 * Lab notes and assignment notes
+* Something others but interesting
 
 
 The lecture notes are continuous updating, and some of them aren't finished yet. If you want to get notes of specific course, please raise an issue.
 
 ----
+
+## Misc
+
+1. OK, here is my new commit of GitHub flavored markdown.
 
 ## Artificial Intelligence
 
@@ -68,11 +73,17 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 2. Only final review chapter is covered.
 
 ## Database Principle
-1. Lecture notes won't be covered (because I did not take any of them), so go and view the notes of Jerry Lu.
+
+1. Lecture notes won't be covered (because I did not take any of them), so go and view the notes of @jerrylususu.
+
 2. Review notes are included.
+
 3. No final review chapter, as there are so many things.
 
 ## Cloud Computing
+
 1. Lecture notes from chapter 0 to chapter 6.
+
 2. Review notes are finished and pushed to master.
+
 3. I may not make a fianl review chapter, as there are also so many things.
