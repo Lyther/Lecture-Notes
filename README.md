@@ -3,13 +3,10 @@
 Lecture notes of SUSTech Computer and Science Engineering Department.
 
 The main contents are:
-
-
 * Lecture notes
 * Review notes
 * Lab notes and assignment notes
 * Something others but interesting
-
 
 The lecture notes are continuous updating, and some of them aren't finished yet. If you want to get notes of specific course, please raise an issue.
 
@@ -33,7 +30,7 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 
 ## Embedded System
 
-1. Lecture notes of Chapter6. Memory.
+1. Lecture notes of Chapter6 and Chapter8.
 
 2. I may upload lab assignments to the github later.
 
