@@ -41,7 +41,7 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 
 ## Compilers
 
-1. Lecture notes of Chapter1. Introduction.
+1. Lecture notes of Chapter1 - Chapter2.
 
 2. The corresponding compiler in assignment can be found in `SPL-compiler`.
 
