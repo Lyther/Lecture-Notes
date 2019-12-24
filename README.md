@@ -34,9 +34,10 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 
 ## Embedded System
 
-1. Lecture notes of Chapter6 and Chapter8.
+1. Lecture notes of Chapter6 and Chapter8 - Chapter10.
+    * For Chapter10, I recommend you to read the source PDF in lecture.
 
-2. I may upload lab assignments to the github later.
+2. I may upload lab assignments to the GitHub later.
 
 ## Compilers
 
@@ -87,4 +88,4 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 
 2. Review notes are finished and pushed to master.
 
-3. I may not make a fianl review chapter, as there are also so many things.
+3. I may not make a final review chapter, as there are also so many things.
