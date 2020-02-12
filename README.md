@@ -12,6 +12,10 @@ The lecture notes are continuous updating, and some of them aren't finished yet.
 
 ----
 
+# Operating System
+
+1. Lecture notes start from 0.
+
 ## Computer Networks
 
 1. Lecture notes of Chapter4. Network Layer.
